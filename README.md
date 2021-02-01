@@ -6,4 +6,3 @@ I deferred lat semester, so this is literally my first semester at W&M. I am rea
 
 I am now in Shenzhen, a city in Southern China. It is usually warm in winter, which I appreciate.
 
-# header
