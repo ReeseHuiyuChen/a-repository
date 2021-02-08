@@ -1,4 +1,6 @@
 # This is my DATA 100 repository
+-Self Introduction
+-Projects
 
 ## Self Introduction
 
