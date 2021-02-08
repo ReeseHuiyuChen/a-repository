@@ -4,6 +4,8 @@
 
 [Projects](#Projects)
 
+[Informal_Responses](#Informal_Responses)
+
 
 ## Self_Introduction
 
@@ -18,6 +20,10 @@ This is my first time taking a data science class. Definitely very excited about
 
 
 ## Projects
+
+
+
+## Informal_Responses
 
 1. Challenge Question: Plotting a Graph
 
