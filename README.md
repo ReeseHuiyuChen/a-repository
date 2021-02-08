@@ -1,7 +1,7 @@
 # This is my DATA 100 repository
--[SelfIntroduction](#SelfIntroduction)
+[Self Introduction](#Self Introduction)
 
--[Projects](#Projects)
+[Projects](#Projects)
 
 ## Self Introduction
 
