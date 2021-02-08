@@ -7,7 +7,7 @@
 
 ## Self_Introduction
 
-Hi everyone! My name is Huiyu Chen, can you can just call me Reese.
+Hi everyone! My name is Huiyu Chen, or you can just call me Reese.
 
 I am from Shenzhen, a city in south of China. I graduated from an international high school here last year.
 
