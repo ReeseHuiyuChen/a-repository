@@ -1,10 +1,10 @@
 # This is my DATA 100 repository
--[Self Introduction]
--[Projects]
+-[Self Introduction](#Self Introduction)
+-[Projects](#Projects)
 
 ## Self Introduction
 
-
+Hi everyone! My name is Huiyu Chen, can you can just call me Reese.
 
 ## Projects
 1. Challenge Question: Plotting a Graph
