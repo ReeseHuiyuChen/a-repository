@@ -22,4 +22,4 @@ This is my first time taking a data science class. Definitely very excited about
 1. Challenge Question: Plotting a Graph
 
 
-![GitHub Logo](https://reesehuiyuchen.github.io/data_100_wickedproblems/ChallengeQuestion.html)
+![GitHub Logo](ChanllengeQuestion.png)
