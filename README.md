@@ -20,14 +20,14 @@ This is my first time taking a data science class. Definitely very excited about
 
 
 ## Projects
+
 1. Projecting, Plotting and Labelling Administrative Subdivision
 
-
+![GitHub Logo](sri_lanka.png)
 
 
 ## Informal_Responses
 
 1. Challenge Question: Plotting a Graph
-
 
 ![GitHub Logo](ChanllengeQuestion.png)
