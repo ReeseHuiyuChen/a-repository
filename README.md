@@ -31,3 +31,7 @@ This is my first time taking a data science class. Definitely very excited about
 1. Challenge Question: Plotting a Graph
 
 ![GitHub Logo](ChanllengeQuestion.png)
+
+2. Reflection_1
+
+[GitHub](Reflection1.md)
