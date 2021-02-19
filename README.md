@@ -34,4 +34,4 @@ This is my first time taking a data science class. Definitely very excited about
 
 2. Reflection_1
 
-[GitHub](Reflection1.md)
+  [GitHub](Reflection1.md)
