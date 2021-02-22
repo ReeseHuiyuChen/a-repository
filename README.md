@@ -26,8 +26,13 @@ This is my first time taking a data science class. Definitely very excited about
 ### Challenge Question
 ![GitHub Logo](sri_lanka.png)
 
+### Individual Stretch Goal 1
+![GitHub Logo](sri_lanka_hdx.png)
+
+This is plotted by data from HDX.
+
 ### Individual Stretch Goal 2
-![GitHub Log](colombo.png)
+![GitHub Logo](colombo.png)
 
 ## Informal_Responses
 
