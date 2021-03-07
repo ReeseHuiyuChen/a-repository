@@ -1,17 +1,17 @@
 # This is my DATA 100 repository
 
-## [Self Introduction](#Self Introduction)
+## [Self Introduction](## Self Introduction)
 
-## [Projects](#Projects)
+## [Projects](## Projects)
   
   ### [Project1](1. Project1)
   
   ### [Project2](2. Project2)
 
-## [Informal Responses](#Informal Responses)
+## [Informal Responses](## Informal Responses)
 
 
-## Self_Introduction
+## Self Introduction
 
 Hi everyone! My name is Huiyu Chen, or you can just call me Reese.
 
