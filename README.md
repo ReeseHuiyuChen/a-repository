@@ -44,14 +44,18 @@ Data from GADM are also contributed by different database. It should be a second
 ### Project2
 
 #### 2.1 Challenge Question
+![GitHub Logo](2.1cq.png)
 
 #### 2.1 Stretch Goal 1
+![GitHub Logo](2.1sg1.png)
 
 #### 2.1 Stretch Goal 2
+![GitHub Logo](2.1sg2.png)
 
 #### 2.1 Stretch Goal 3
 
 #### 2.2 Deliverable
+![GitHub Logo](prj2_deliverable.png)
 
 #### 2.2 Stretch Goal 1
 
