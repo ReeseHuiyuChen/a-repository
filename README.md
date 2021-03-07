@@ -1,14 +1,14 @@
 # This is my DATA 100 repository
 
-## [Self Introduction](##-self-introduction)
+## [Self Introduction](##self-introduction)
 
-## [Projects](##-projects)
+## [Projects](##projects)
   
-  ### [Project1](###-project1)
+  - [Project1](###project1)
   
-  ### [Project2](###-project2)
+  - [Project2](###project2)
 
-## [Informal Responses](##-informal-responses)
+## [Informal Responses](##informal-responses)
 
 
 ## Self Introduction
@@ -59,7 +59,7 @@ Data from GADM are also contributed by different database. It should be a second
 
 #### 2.2 Stretch Goal 1
 
-## Informal_Responses
+## Informal Responses
 
 1. Challenge Question: Plotting a Graph
 
