@@ -1,6 +1,6 @@
 # This is my DATA 100 repository
 
-## [Self Introduction](#self-introduction)
+## [Self_Introduction](#self_introduction)
 
 ## [Projects](#projects)
   
@@ -8,10 +8,10 @@
   
   - [Project2](#project2)
 
-## [Informal Responses](#informal-responses)
+## [Informal_Responses](#informal_responses)
 
 
-## Self Introduction
+## Self_Introduction
 
 Hi everyone! My name is Huiyu Chen, or you can just call me Reese.
 
@@ -59,7 +59,7 @@ Data from GADM are also contributed by different database. It should be a second
 
 #### 2.2 Stretch Goal 1
 
-## Informal Responses
+## Informal_Responses
 
 1. Challenge Question: Plotting a Graph
 
