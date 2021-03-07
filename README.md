@@ -1,10 +1,14 @@
 # This is my DATA 100 repository
 
-[Self_Introduction](#Self_Introduction)
+## [Self Introduction](#Self Introduction)
 
-[Projects](#Projects)
+## [Projects](#Projects)
+  
+  ### [Project1](1. Project1)
+  
+  ### [Project2](2. Project2)
 
-[Informal_Responses](#Informal_Responses)
+## [Informal Responses](#Informal Responses)
 
 
 ## Self_Introduction
@@ -21,22 +25,37 @@ This is my first time taking a data science class. Definitely very excited about
 
 ## Projects
 
-1. Projecting, Plotting and Labelling Administrative Subdivision
+### 1. Project1
 
-### Challenge Question
+#### Challenge Question
 ![GitHub Logo](sri_lanka.png)
 
-### Individual Stretch Goal 1
+#### Individual Stretch Goal 1
 ![GitHub Logo](sri_lanka_hdx.png)
 
 This is plotted by data from HDX. The data is contributed by Information Technology Outreach Services(ITOS), which is an organization carries out
 all kinds of services and research in different regions and cities. Therefore, it should be a secondary source.
 Data from GADM are also contributed by different database. It should be a secondary source as well.
 
-### Individual Stretch Goal 2
+#### Individual Stretch Goal 2
 ![GitHub Logo](colombo.png)
 
-## Informal_Responses
+
+### 2. Project2
+
+#### 2.1 Challenge Question
+
+#### 2.1 Stretch Goal 1
+
+#### 2.1 Stretch Goal 2
+
+#### 2.1 Stretch Goal 3
+
+#### 2.2 Deliverable
+
+#### 2.2 Stretch Goal 1
+
+## Informal Responses
 
 1. Challenge Question: Plotting a Graph
 
