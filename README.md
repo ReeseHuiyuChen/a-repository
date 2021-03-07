@@ -53,6 +53,7 @@ Data from GADM are also contributed by different database. It should be a second
 ![GitHub Logo](2.1sg2.png)
 
 #### 2.1 Stretch Goal 3
+![GitHub Logo](FC3BB015-EFD5-48FE-9E21-4199A3A5C4B4.gif)
 
 #### 2.2 Deliverable
 ![GitHub Logo](prj2_deliverable.png)
