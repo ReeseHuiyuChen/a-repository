@@ -1,17 +1,17 @@
 # This is my DATA 100 repository
 
-## [SelfIntroduction](## SelfIntroduction)
+## [Self_Introduction](##Self_Introduction)
 
 ## [Projects](##Projects)
   
-  ### [Project1](1.Project1)
+  ### [Project1](###Project1)
   
-  ### [Project2](2.Project2)
+  ### [Project2](###Project2)
 
-## [InformalResponses](## Informal Responses)
+## [Informal_Responses](##Informal_Responses)
 
 
-## SelfIntroduction
+## Self_Introduction
 
 Hi everyone! My name is Huiyu Chen, or you can just call me Reese.
 
@@ -25,7 +25,7 @@ This is my first time taking a data science class. Definitely very excited about
 
 ## Projects
 
-### 1. Project1
+### Project1
 
 #### Challenge Question
 ![GitHub Logo](sri_lanka.png)
@@ -41,7 +41,7 @@ Data from GADM are also contributed by different database. It should be a second
 ![GitHub Logo](colombo.png)
 
 
-### 2. Project2
+### Project2
 
 #### 2.1 Challenge Question
 
@@ -55,7 +55,7 @@ Data from GADM are also contributed by different database. It should be a second
 
 #### 2.2 Stretch Goal 1
 
-## InformalResponses
+## Informal_Responses
 
 1. Challenge Question: Plotting a Graph
 
