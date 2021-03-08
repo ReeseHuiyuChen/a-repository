@@ -20,7 +20,7 @@ This is my first time taking a data science class. Definitely very excited about
 
 ## Informal_Responses
 
-- [Challenge Question](#challenge-question)
+- [ChallengeQuestion](#challengequestion)
 
 - [Reflection1](#reflection1)
 
