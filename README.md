@@ -59,6 +59,7 @@ Data from GADM are also contributed by different database. It should be a second
 ![GitHub Logo](prj2_deliverable.png)
 
 #### 2.2 Stretch Goal 1
+![GitHub Logo](lka_adm2_bp.png)
 
 ## Informal_Responses
 
