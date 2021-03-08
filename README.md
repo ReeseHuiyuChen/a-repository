@@ -63,10 +63,14 @@ Data from GADM are also contributed by different database. It should be a second
 
 ## Informal_Responses
 
-1. Challenge Question: Plotting a Graph
+Challenge Question: Plotting a Graph
 
 ![GitHub Logo](ChanllengeQuestion.png)
 
-2. Reflection_1
+Reflection1
 
-  [GitHub](Reflection1.md)
+[GitHub](Reflection1.md)
+
+Reflection2
+
+[GitHub](Reflection2.md)
