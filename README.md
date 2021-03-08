@@ -1,16 +1,16 @@
 # This is my DATA 100 repository
 
-## [Self_Introduction](#self_introduction)
+## Self_Introduction
 
-## [Projects](#projects)
+## Projects
   
 - [Project1](#project1)
   
 - [Project2](#project2)
 
-## [Informal_Responses](#informal_responses)
+## Informal_Responses
 
-- [Challenge Question: Plotting a Graph](#challenge-question:-plotting-a-graph)
+- [Challenge Question](#challenge-question)
 
 - [Reflection1](#reflection1)
 
@@ -69,7 +69,7 @@ Data from GADM are also contributed by different database. It should be a second
 
 ## Informal_Responses
 
-### Challenge Question: Plotting a Graph
+### ChallengeQuestion
 
 ![GitHub Logo](ChanllengeQuestion.png)
 
