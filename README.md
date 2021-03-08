@@ -4,11 +4,17 @@
 
 ## [Projects](#projects)
   
-  - [Project1](#project1)
+- [Project1](#project1)
   
-  - [Project2](#project2)
+- [Project2](#project2)
 
 ## [Informal_Responses](#informal_responses)
+
+-[Challenge Question: Plotting a Graph](#challenge-question:-plotting-a-graph)
+
+-[Reflection1](#reflection1)
+
+-[Reflection2](#reflection2)
 
 
 ## Self_Introduction
