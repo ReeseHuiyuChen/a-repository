@@ -26,6 +26,8 @@ This is my first time taking a data science class. Definitely very excited about
 
 - [Reflection2](#reflection2)
 
+- [Reflection3](#reflection3)
+
 
 
 ## Projects
@@ -79,3 +81,7 @@ Data from GADM are also contributed by different database. It should be a second
 ### Reflection2
 
 [GitHub](Reflection2.md)
+
+### Reflection3
+
+[GitHub](Reflection3.md)
