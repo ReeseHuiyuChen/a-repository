@@ -17,6 +17,8 @@ This is my first time taking a data science class. Definitely very excited about
   
 - [Project2](#project2)
 
+- [Project3](#project3)
+
 
 ## Informal_Responses
 
@@ -67,6 +69,20 @@ Data from GADM are also contributed by different database. It should be a second
 
 #### 2.2 Stretch Goal 1
 ![GitHub Logo](lka_adm2_bp.png)
+
+
+### Project3
+
+#### Challenge Question 1
+![GitHub Logo](lkaadm2ntl.png)
+![GitHub Logo](lkaadm2topo.png)
+
+#### Challenge Question 2
+![GitHub Logo](popslope.png)
+![GitHub Logo](popslopesummary.png)
+![GitHub Logo](popall.png)
+![GitHub Logo](popallsummary.png)
+
 
 ## Informal_Responses
 
