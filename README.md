@@ -13,93 +13,21 @@ This is my first time taking a data science class. Definitely very excited about
 
 ## Projects
   
-- [Project1](#project1)
+- [Project1](Project1.md)
   
-- [Project2](#project2)
+- [Project2](Project2.md)
 
-- [Project3](#project3)
+- [Project3](Project3.md)
 
 - [Project4](Project4.md)
 
 
 ## Informal_Responses
 
-- [ChallengeQuestion](#challengequestion)
+- [ChallengeQuestion](ChanllengeQuestion.png)
 
-- [Reflection1](#reflection1)
+- [Data Reflection 1](Reflection1.md)
 
-- [Reflection2](#reflection2)
+- [Data Reflection2](Reflection2.md)
 
-- [Reflection3](#reflection3)
-
-
-
-## Projects
-
-### Project1
-
-#### Challenge Question
-![GitHub Logo](sri_lanka.png)
-
-#### Individual Stretch Goal 1
-![GitHub Logo](sri_lanka_hdx.png)
-
-This is plotted by data from HDX. The data is contributed by Information Technology Outreach Services(ITOS), which is an organization carries out
-all kinds of services and research in different regions and cities. Therefore, it should be a secondary source.
-Data from GADM are also contributed by different database. It should be a secondary source as well.
-
-#### Individual Stretch Goal 2
-![GitHub Logo](colombo.png)
-
-
-### Project2
-
-#### 2.1 Challenge Question
-![GitHub Logo](2.1cq.png)
-
-#### 2.1 Stretch Goal 1
-![GitHub Logo](2.1sg1.png)
-
-#### 2.1 Stretch Goal 2
-![GitHub Logo](2.1sg2.png)
-
-#### 2.1 Stretch Goal 3
-![GitHub Logo](FC3BB015-EFD5-48FE-9E21-4199A3A5C4B4.gif)
-
-#### 2.2 Deliverable
-![GitHub Logo](prj2_deliverable.png)
-
-#### 2.2 Stretch Goal 1
-![GitHub Logo](lka_adm2_bp.png)
-
-
-### Project3
-
-#### Challenge Question 1
-![GitHub Logo](lkaadm2ntl.png)
-![GitHub Logo](lkaadm2topo.png)
-
-#### Challenge Question 2
-![GitHub Logo](popslope.png)
-![GitHub Logo](popslopesummary.png)
-![GitHub Logo](popall.png)
-![GitHub Logo](popallsummary.png)
-
-
-## Informal_Responses
-
-### ChallengeQuestion
-
-![GitHub Logo](ChanllengeQuestion.png)
-
-### Reflection1
-
-[GitHub](Reflection1.md)
-
-### Reflection2
-
-[GitHub](Reflection2.md)
-
-### Reflection3
-
-[GitHub](Reflection3.md)
+- [Data Reflection3](Reflection3.md)
