@@ -1,4 +1,4 @@
-## Informal Response: Reflection_1
+# Data Reflection 1
 
 According to Blumenstock, the application of data science has been too aggressive. 
 Though one of the initial intentions was help to distribute humanitarian aids for the poor, based on the map created by collecting smartphone data, 
