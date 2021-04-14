@@ -19,6 +19,8 @@ This is my first time taking a data science class. Definitely very excited about
 
 - [Project3](#project3)
 
+- [Project4](#project4.md)
+
 
 ## Informal_Responses
 
