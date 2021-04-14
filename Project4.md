@@ -3,16 +3,24 @@
 
 ## Part 1
 
+### Colombo
+
 ![GitHub Logo](colombo_pop.png)
+Colombo_predicted population
 
 ![GitHub Logo](colombo_diff.png)
+Colombo_margin of error
 
 ![GitHub Logo](colombo_3d.png)
 
 ![GitHub Logo](overlap.png)
 
 
+
+
 ## Part 2
+
+### predicted sum of population
 
 ![GitHub Logo](pop_sums.png)
 
@@ -20,11 +28,15 @@
 
 ![GitHub Logo](diff_sums_3d.png)
 
+### predicted mean of population
+
 ![GitHub Logo](pop_means.png)
 
 ![GitHub Logo](diff_means.png)
 
 ![GitHub Logo](diff_means_3d.png)
+
+### predicted log of population
 
 ![GitHub Logo](pop_log.png)
 
