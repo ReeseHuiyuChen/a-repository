@@ -16,6 +16,17 @@ Colombo_margin of error
 ![GitHub Logo](overlap.png)
 
 
+## Kekiwara
+
+![GitHub Logo](kekiwara_pop.png)
+Kekiwara_predicted population
+
+![GitHub Logo](kekiwara_diff.png)
+Kekiwara_margin of error
+
+![GitHub Logo](kekiwara_3d.png)
+
+![GitHub Logo](k_overlap.png)
 
 
 ## Part 2
