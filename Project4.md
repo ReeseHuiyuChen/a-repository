@@ -1,4 +1,4 @@
-# Project 4: Modeling & Predicting Spatial Values & Investigating and Comparing Results
+# Project 4: Modeling/Predicting Spatial Values & Investigating and Comparing Results
 
 
 ## Part 1
