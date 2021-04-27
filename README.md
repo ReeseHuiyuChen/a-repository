@@ -28,6 +28,8 @@ This is my first time taking a data science class. Definitely very excited about
 
 - [Data Reflection 1](Reflection1.md)
 
-- [Data Reflection2](Reflection2.md)
+- [Data Reflection 2](Reflection2.md)
 
-- [Data Reflection3](Reflection3.md)
+- [Data Reflection 3](Reflection3.md)
+
+-[Data Reflection 4](Reflection4.md)
