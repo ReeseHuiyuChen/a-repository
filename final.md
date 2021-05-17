@@ -10,4 +10,4 @@
 
 ## Accessibility 3
 
-![GitHub Logo](accessibility3.png)
+![GitHub Logo](a3.png)
